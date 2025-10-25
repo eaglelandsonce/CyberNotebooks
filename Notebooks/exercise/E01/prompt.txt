@@ -1,0 +1,10 @@
+From the attached pdf
+
+Framework alignment analysis 
+Objective: Apply ethics/governance frameworks Instructions: Choose one to two AI governance frameworks (e.g., NIST AI RMF, ISO 42001, EU AI Act). Map relevant principles to areas in the case study. Highlight misalignments, missing controls, and role confusion. Evaluate how well the project meets the intent of each selected framework. 
+
+Group discussion and reflection 
+Objective: Explore gaps and possible solutions Instructions: In small groups, share findings. Discuss which ethical or governance breaches exist and which are overlooked. Reflect on practical governance mechanisms (e.g., internal audits, human oversight, risk registers). 
+
+Final recommendations 
+Objective: Draft a responsible AI checklist Instructions: Based on analysis, draft a checklist of improvements (e.g., impact assessment, data audit trail, explainability protocol), including: Key ethical risk area Framework guidance reference Suggested remediation or governance control
